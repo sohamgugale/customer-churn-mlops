@@ -34,7 +34,7 @@ catches **96%** of churners and expected cost falls from $89,500 (t = 0.5) to
 
 **Retention campaign simulation.** Targeting the top 20% of scored customers (281) reaches
 189 churners vs. 65 with random targeting
-(net value $14,300 vs. $-4,300, assuming a 30% save rate).
+(net value USD 14,300 vs. USD -4,300, assuming a 30% save rate).
 
 ### Explainability (mean |SHAP|, XGBoost)
 | Feature | mean abs SHAP |
